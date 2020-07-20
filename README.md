@@ -11,6 +11,6 @@
 - :computer: 主に[Rust](https://github.com/fosskers?tab=repositories&q=&type=source&language=rust)・[Haskell](https://github.com/fosskers?tab=repositories&q=&type=source&language=haskell)・[Go](https://github.com/fosskers?tab=repositories&q=&type=source&language=go)でオープンソース開発をしています。
 
 - :penguin: [Arch Linux](https://www.archlinux.org/)の[Aura Package Manager](https://github.com/fosskers/aura)の作者です。
-- :link: [個人サイト](https://www.fosskers.ca)
+- :link: [個人サイト](https://www.fosskers.ca/jp) (和)
 - :high_brightness: [経歴](https://www.fosskers.ca/jp/cv) (和)
 - :sparkling_heart: [スポンサーページ](https://github.com/sponsors/fosskers)
