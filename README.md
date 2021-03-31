@@ -14,3 +14,10 @@
 - :link: [個人サイト](https://www.fosskers.ca/jp) (和)
 - :high_brightness: [経歴](https://www.fosskers.ca/jp/cv) (和)
 - :sparkling_heart: [スポンサーページ](https://github.com/sponsors/fosskers)
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fosskers&hide=issues&theme=dark"/>
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fosskers&layout=compact&theme=dark"/>
+</a>
