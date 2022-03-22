@@ -19,5 +19,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fosskers&hide=issues&theme=dark"/>
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fosskers&layout=compact&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fosskers&layout=compact&langs_count=6&theme=dark"/>
 </a>
